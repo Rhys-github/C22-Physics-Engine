@@ -1,2 +1,2 @@
-# C22-Physics-Engine
-Matter.js Physics - bouncing ball
+# bouncyBall
+Bouncy Ball created using matter.js physics engine
